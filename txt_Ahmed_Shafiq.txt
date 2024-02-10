@@ -1,0 +1,5 @@
+git init 
+git clone 
+git commit -m " file  "
+git add
+git push main
